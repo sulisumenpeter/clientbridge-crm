@@ -86,7 +86,7 @@ export default function Home() {
           <div className="lg:col-span-5 bg-white rounded-3xl shadow-xl shadow-slate-200/50 border border-slate-100 p-8 transition-all hover:shadow-2xl">
             <div className="mb-8">
               <h2 className="text-2xl font-bold text-slate-900">Capture New Lead</h2>
-              <p className="text-slate-500 text-sm mt-2">Enter the prospect's details below to automatically route them through the AI CRM pipeline.</p>
+              <p className="text-slate-500 text-sm mt-2">Tell us what you're looking for, and we'll connect you with the right specialist instantly.</p>
             </div>
 
             <form onSubmit={handleSubmit} className="space-y-6">
