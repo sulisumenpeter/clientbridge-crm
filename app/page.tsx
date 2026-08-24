@@ -85,7 +85,7 @@ export default function Home() {
           
           <div className="lg:col-span-5 bg-white rounded-3xl shadow-xl shadow-slate-200/50 border border-slate-100 p-8 transition-all hover:shadow-2xl">
             <div className="mb-8">
-              <h2 className="text-2xl font-bold text-slate-900">Capture New Lead</h2>
+              <h2 className="text-2xl font-bold text-slate-900">Get in Touch</h2>
               <p className="text-slate-500 text-sm mt-2">Tell us what you're looking for, and we'll connect you with the right specialist instantly.</p>
             </div>
 
@@ -186,9 +186,9 @@ export default function Home() {
                   <div className="w-16 h-16 mb-6 rounded-full bg-slate-800 border border-slate-700 flex items-center justify-center shadow-inner">
                     <svg className="w-8 h-8 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4"></path></svg>
                   </div>
-                  <h3 className="text-xl font-bold text-slate-200 mb-2">Awaiting Lead Data</h3>
+                  <h3 className="text-xl font-bold text-slate-200 mb-2">We're excited to connect with you.</h3>
                   <p className="text-slate-400 text-sm leading-relaxed">
-                    The AI CRM engine is online. Inbound submissions will automatically route through the processor and appear in your secure workspace.
+                    Drop us your details below, and our team will get back to you right away.
                   </p>
                 </div>
               </div>
