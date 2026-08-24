@@ -69,7 +69,7 @@ export default function Home() {
                 ClientBridge AI
               </h1>
               <p className="text-slate-400 text-xs font-semibold tracking-widest uppercase">
-                The CRM that turns customer conversations into actions
+                The Smart AI CRM Synchronizer
               </p>
             </div>
           </div>
@@ -186,9 +186,9 @@ export default function Home() {
                   <div className="w-16 h-16 mb-6 rounded-full bg-slate-800 border border-slate-700 flex items-center justify-center shadow-inner">
                     <svg className="w-8 h-8 text-slate-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4"></path></svg>
                   </div>
-                  <h3 className="text-xl font-bold text-slate-200 mb-2">We're excited to connect with you.</h3>
+                  <h3 className="text-xl font-bold text-slate-200 mb-2">ClientBridge AI. System Online!</h3>
                   <p className="text-slate-400 text-sm leading-relaxed">
-                    Drop us your details below, and our team will get back to you right away.
+                    ClientBridge AI bridges the gap between scattered customer conversations and internal CRM record-keeping. By automatically ingesting form submissions, emails, or messaging inputs, the system parses unstructured details, prevents duplicate entries, updates records in Airtable, and logs follow-up activities—ensuring managers have total pipeline visibility without relying on manual employee data entry.
                   </p>
                 </div>
               </div>
