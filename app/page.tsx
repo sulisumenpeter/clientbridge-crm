@@ -66,10 +66,10 @@ export default function Home() {
             </div>
             <div>
               <h1 className="text-2xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-cyan-400">
-                ClientBridge
+                ClientBridge AI
               </h1>
               <p className="text-slate-400 text-xs font-semibold tracking-widest uppercase">
-                AI CRM Engine
+                The CRM that turns customer conversations into actions
               </p>
             </div>
           </div>
