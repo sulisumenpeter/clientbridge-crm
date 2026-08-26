@@ -76,9 +76,9 @@ export default function Home() {
 
           <div className="flex items-center gap-6">
             <div className="hidden md:flex items-center gap-6 text-xs font-medium text-stone-600">
-              <span className="hover:text-amber-700 cursor-pointer transition-colors">Platform</span>
-              <span className="hover:text-amber-700 cursor-pointer transition-colors">Solutions</span>
-              <span className="hover:text-amber-700 cursor-pointer transition-colors">Integrations</span>
+              <span className="hover:text-amber-700 cursor-pointer transition-colors"></span>
+              <span className="hover:text-amber-700 cursor-pointer transition-colors"></span>
+              <span className="hover:text-amber-700 cursor-pointer transition-colors"></span>
             </div>
             <div className="text-right bg-stone-100/80 px-3 py-1.5 rounded-xl border border-stone-200/60">
               <p className="font-bold text-xs text-stone-900 leading-none">Sulisumen Peter</p>
