@@ -96,8 +96,8 @@ export default function Home() {
           <div className="lg:col-span-5 bg-white/95 backdrop-blur-sm rounded-2xl shadow-xl shadow-stone-200/40 border border-stone-200/70 p-6 flex flex-col justify-between overflow-y-auto">
             <div>
               <div className="mb-4">
-                <h2 className="text-xl font-bold text-stone-900">Get in Touch</h2>
-                <p className="text-stone-500 text-xs mt-1">We're excited to connect with you. Drop us your details below, and our team will get back to you right away.</p>
+                <h2 className="text-xl font-bold text-stone-900">Capture New Lead</h2>
+                <p className="text-stone-500 text-xs mt-1">Enter the prospect's details below to automatically route them through the AI CRM pipeline.</p>
               </div>
 
               <form onSubmit={handleSubmit} className="space-y-3.5">
