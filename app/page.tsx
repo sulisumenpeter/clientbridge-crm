@@ -69,7 +69,7 @@ export default function Home() {
                 ClientBridge <span className="text-amber-700 font-medium text-xs">AI</span>
               </h1>
               <p className="text-stone-500 text-[10px] font-semibold tracking-widest uppercase">
-                Smart CRM Synchronizer
+                 AI CRM Assistant
               </p>
             </div>
           </div>
